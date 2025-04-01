@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-04-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e268004`](https://github.com/stdlib-js/stdlib/commit/e268004eb31316677242cddda82e150f88ad14a6) - **chore:** address commit comments for `betaprime/mean` [(#5081)](https://github.com/stdlib-js/stdlib/pull/5081) _(by Saurabh Singh)_
 -   [`6958670`](https://github.com/stdlib-js/stdlib/commit/695867014377f940a6ba5713ceaab4519d367bb3) - **feat:** add C implementation for `stats/base/dists/betaprime/mean` [(#4064)](https://github.com/stdlib-js/stdlib/pull/4064) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`68894a1`](https://github.com/stdlib-js/stdlib/commit/68894a16cc999587091fdc3b014d21b64d3dde79) - **bench:** refactor random number generation in `stats/base/dists/betaprime` [(#4840)](https://github.com/stdlib-js/stdlib/pull/4840) _(by Karan Anand)_
